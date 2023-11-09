@@ -1,4 +1,4 @@
-# Collegelink Mellon Bootcamp - Petros Triantafyllos
+# Collegelink Mellon Bootcamp - Ioannis Papikas
 
 This is a new line!
 
