@@ -1,4 +1,4 @@
-# Collegelink Mellon Bootcamp - Ioannis Papikas
+# Collegelink Mellon Bootcamp - Nikos Papalexandris
 
 This is a new line!
 
