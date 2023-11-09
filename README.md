@@ -1,4 +1,4 @@
-# Collegelink Mellon Bootcamp - John Stent
+# Collegelink Mellon Bootcamp - Ioannis Papikas
 
 This is a new line!
 
