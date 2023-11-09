@@ -1,5 +1,5 @@
-# Collegelink Mellon Bootcamp - Ioannis Papikas
+# Collegelink Mellon Bootcamp - George Gkoumas
 
 This is a new line!
 
-Oti thelete na grapsete!
+Oti thelw tha kanw
