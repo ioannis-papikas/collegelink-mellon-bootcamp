@@ -1,5 +1,5 @@
-# Collegelink Mellon Bootcamp - panagiotis koletsis
+# Collegelink Mellon Bootcamp - Ioannis Papikas
 
 This is a new line!
 
-exei matsakia to vradi!
+Oti thelete na grapsete!
